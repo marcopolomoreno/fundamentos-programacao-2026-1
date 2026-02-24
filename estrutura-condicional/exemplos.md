@@ -1,4 +1,4 @@
-# Problema 1 – Classificação de Nota
+# Exemplo 1 – Classificação de Nota
 
 Escreva um programa em **C** que leia a nota final de um aluno  
 (valor decimal entre `0` e `10`).
