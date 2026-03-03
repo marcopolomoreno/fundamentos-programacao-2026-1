@@ -31,13 +31,16 @@ Se a nota digitada for menor que `0` ou maior que `10`, o programa deve exibir a
 - ## O usuário deve digitar sua massa e sua altura. O programa deve informar seu IMC e as informações (Ex: Peso normal).
 
 
-Ex: Escreva um programa que leia 2 números inteiros e exiba-os na tela em ordem crescente.
+# Exemplo 3: 
+
+Escreva um programa que leia 2 números inteiros e exiba-os na tela em ordem crescente.
 
 
-Ex: Escreva um programa em C que leia 4 números inteiros e informe na 
-tela quantos deles são positivos.
+# Exemplo 4:
 
-Ex:
+Escreva um programa em C que leia 4 números inteiros e informe na tela quantos deles são positivos.
+
+# Exemplo 5:
 
 Escreva um programa em C que solicite ao usuário o seu ano de nascimento.
 
