@@ -60,3 +60,7 @@ Caso o ano informado seja maior que 2026 ou muito antigo (por exemplo, menor que
 o programa deve exibir:
 
 Ano inválido.
+
+
+# Exemplo 6:
+Escreva um programa em C que leia 5 números inteiros e informe na tela, ao final, o maior número digitado.
