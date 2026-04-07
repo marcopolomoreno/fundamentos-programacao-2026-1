@@ -15,3 +15,9 @@ Crie um programa que calcula a seguinte soma: 1 + 1/2 + 1/4 + 1/8 + ... Como é 
 Escreva um programa que leia 30 números inteiros mas, se um deles for divisível por 10, o programa é encerrado.
 
 ------------------------------------------------------------------------
+
+# Exemplo 4: Número primo
+
+Escreva um programa que leia um número inteiro e diga se ele é primo ou não.
+
+------------------------------------------------------------------------
