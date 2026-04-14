@@ -29,6 +29,3 @@ Crie um programa que leia uma palavra e diga quantas vogais ela possui.
 ------------------------------------------------------------------------
 
 # Exemplo 6:
-
-Escreva um programa em C que leia 5 números inteiros e informe na tela,
-ao final, o maior número digitado.
