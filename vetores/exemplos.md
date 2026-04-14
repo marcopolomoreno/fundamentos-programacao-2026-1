@@ -1,4 +1,4 @@
-# Exemplo 1 -- 
+# Exemplo 1
 
 Média de notas obtidas em 4 provas.
 
