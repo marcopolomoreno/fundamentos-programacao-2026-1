@@ -29,3 +29,5 @@ Crie um programa que leia uma palavra e diga quantas vogais ela possui.
 ------------------------------------------------------------------------
 
 # Exemplo 6:
+
+Crie um programa que leia uma palavra e verifique se ela é um palíndromo.
