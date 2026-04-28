@@ -10,6 +10,7 @@ Escreva um programa que gere duas matrizes A e B de tamanhos 3x4 (3 linhas por 4
 
 Dica: use
 #include <stdlib.h>
+
 rand() % 10    //(gera números inteiros aleatórios de 0 a 9)
 
 ------------------------------------------------------------------------
