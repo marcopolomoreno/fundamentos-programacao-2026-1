@@ -9,6 +9,7 @@ Crie um programa que mostra na tela a matriz identidade (matemática) de tamanho
 Escreva um programa que gere duas matrizes A e B de tamanhos 3x4 (3 linhas por 4 colunas) de números inteiros aleatórios de 0 a 9 e imprima na tela as matrizes A, B e C = A + B.
 
 Dica: use
+
 #include <stdlib.h>
 
 rand() % 10    //(gera números inteiros aleatórios de 0 a 9)
