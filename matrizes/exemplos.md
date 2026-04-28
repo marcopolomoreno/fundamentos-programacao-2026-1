@@ -19,3 +19,9 @@ rand() % 10    //(gera números inteiros aleatórios de 0 a 9)
 Escreva um programa que gera uma matriz de tamanho NxN (N é escolhido pelo usuário) de números inteiros aleatórios entre 0 e 9 e mostra na tela: o menor e o maior número contido na matriz.
 
 ------------------------------------------------------------------------
+
+# Exemplo 4:
+
+Escreva um programa que mostra na tela uma matriz triangular superior de números inteiros aleatórios de 0 a 9.
+
+------------------------------------------------------------------------
